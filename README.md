@@ -13,6 +13,7 @@ My VS Code Settings
 Microsoft Yahei Mono ([download link](https://github.com/Microsoft/vscode/files/555425/yahei_mono.zip))
 
 **vs code settings**
+```
 {
     "editor.tabSize": 2,
     "workbench.editor.enablePreviewFromQuickOpen": false,
@@ -25,8 +26,10 @@ Microsoft Yahei Mono ([download link](https://github.com/Microsoft/vscode/files/
     "editor.fontFamily": "'Microsoft Yahei Mono'",
     "editor.lineHeight": 24
 }
+```
 
 **JSLint settings** (.eslintrc)
+```
 {
   "extends": "eslint:recommended",
   "env": {
@@ -43,3 +46,4 @@ Microsoft Yahei Mono ([download link](https://github.com/Microsoft/vscode/files/
     "indent": ["error", 2]
   }
 }
+```
